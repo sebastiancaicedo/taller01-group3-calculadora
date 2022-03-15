@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Calculadora.CalcLib\Calculadora.CalcLib.csproj" />
+  </ItemGroup>
+
 </Project>
